@@ -1,4 +1,5 @@
 A collection of beginner-friendly Python projects to practice problem-solving and build a portfolio. Each project is organized in its own folder with code and documentation.
+
 📂 Projects Included
 - Rock Paper Scissors
 A simple game where the user plays against the computer. Demonstrates Python basics like conditionals, loops, and random number generation.
