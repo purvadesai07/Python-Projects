@@ -1,7 +1,41 @@
-A collection of beginner-friendly Python projects to practice problem-solving and build a portfolio. Each project is organized in its own folder with code and documentation.
+# Python Projects
 
-📂 Projects Included
-- Rock Paper Scissors
-A simple game where the user plays against the computer. Demonstrates Python basics like conditionals, loops, and random number generation.
-- Password Strength Checker
-A tool that evaluates password security based on length, character variety, and common patterns. Useful for practicing string handling and validation logic.
+A collection of beginner-friendly Python projects built while learning Python programming, problem-solving, and software development.
+
+## Projects Included
+
+### 📚 Library Management System
+- Add books
+- Issue books
+- Return books
+- Search books
+- View all available books
+
+### ⌨️ Typing Speed Tester
+- Measures typing speed (WPM)
+- Calculates typing accuracy
+- Uses random sentences for practice
+
+### 🏦 Bank Management System
+- Deposit money
+- Withdraw money
+- Check account balance
+
+### 🔒 Password Checker
+- Checks password strength
+- Validates password requirements
+
+### ✂️ Rock Paper Scissors
+- Play against the computer
+- Random computer choices
+
+## Technologies Used
+- Python
+- Lists
+- Loops
+- Functions
+- File Handling
+- Conditional Statements
+
+## Author
+Purva Desai
